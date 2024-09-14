@@ -1,11 +1,11 @@
 [![MasterHead](https://img.freepik.com/premium-photo/chic-modern-wallpaper-design-featuring-glowing-light-bulb-as-symbol-innovative-business-ideas-image-has-minimalist-elegant-style_924727-6404.jpg?w=1380)]()
 <h1 align="center">Hi 👋, I'm Daya Sagar</h1>
-<h3 align="center">- 🌱 Aspiring Developer | JavaScript & React Enthusiast | MERN | DSA Learner</h3>
+<h3 align="center">- 🌱 Aspiring Developer | JavaScript & React Enthusiast | MERN | DSA </h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dayasagar88&label=Profile%20views&color=0e75b6&style=flat" alt="dayasagar88" /> </p>
 
-- 🌱 I’m currently learning **React , Javascript , DSA**
+- 🌱 I’m currently learning **MERN , Javascript , DSA**
 
 - 💬 Ask me about **Javascript, React, Java**
 
